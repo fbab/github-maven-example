@@ -34,6 +34,7 @@
             <configuration>
               <rules>
                 <requireFilesExist>
+                  <level>WARN</level> <!-- source : http://maven.apache.org/enforcer/maven-enforcer-plugin/usage.html -->
                   <files>
                    <file>${project.basedir}/pom.xml</file>
                    <file>${project.basedir}/docs/cdc.md</file>
