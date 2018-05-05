@@ -35,7 +35,7 @@
               <rules>
                 <requireFilesExist>
                   <files>
-                   <file>${project.build.outputDirectory}/pom.xml</file>
+                   <file>${project.basedir}/pom.xml</file>
                    <!-- <file>${project.build.outputDirectory}/foo2.txt</file> -->
                   </files>
                 </requireFilesExist>
