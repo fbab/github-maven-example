@@ -36,6 +36,7 @@
                 <requireFilesExist>
                   <files>
                    <file>${project.basedir}/pom.xml</file>
+                   <file>${project.basedir}/docs/cdc.md</file>
                    <!-- <file>${project.build.outputDirectory}/foo2.txt</file> -->
                   </files>
                 </requireFilesExist>
