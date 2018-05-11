@@ -1,5 +1,7 @@
 package com.github.maven.example;
 
+// pour trigger travis
+
 /**
  * Simple wigdet class that can be enabled or disabled
  */
