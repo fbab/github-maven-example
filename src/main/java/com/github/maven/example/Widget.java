@@ -1,5 +1,7 @@
 package com.github.maven.example;
 
+// pour relancer compil
+
 /**
  * Simple wigdet class that can be enabled or disabled
  */
